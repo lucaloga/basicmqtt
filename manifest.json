@@ -1,0 +1,15 @@
+{
+  "domain": "websock",
+  "name": "websock",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/websock",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@lucaloga"
+  ],
+  "iot_class": "cloud_polling"
+}
